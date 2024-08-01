@@ -11,8 +11,8 @@ const Home: React.FC = () => {
     useState<JSX.Element | null>();
 
   const options = [
-    { value: "text", label: "Text Response" },
-    { value: "audio", label: "Audio Response" },
+    { value: "text", label: "Text" },
+    { value: "audio", label: "Audio" },
   ];
 
   return (

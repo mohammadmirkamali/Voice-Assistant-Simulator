@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+label {
+  cursor: pointer; /* Change the cursor to pointer for the label */
+}
+
 .button {
   background-color: #6200ea; /* Primary color */
   color: white; /* Text color */
